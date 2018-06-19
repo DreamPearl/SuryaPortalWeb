@@ -6,3 +6,5 @@ This repository includes
 - Sample data for SQL
 - Simple frontend for resetting password(Admin only)
 
+
+![Login page Image](https://raw.githubusercontent.com/DreamPearl/SuryaPortalWeb/master/images/screenshot.png "Login page")
